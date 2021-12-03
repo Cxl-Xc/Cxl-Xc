@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Welcome to my github >
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Welcome to my github
 
 
 Here are some ideas to get you started:
